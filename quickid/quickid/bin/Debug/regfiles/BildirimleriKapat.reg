@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"EnableBalloonTips"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer]
+"NoActionCenter"=dword:00000001
+"DisableNotificationCenter"=dword:00000001
+"DisableNotificationIcons"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"EnableNotificationCenter"=dword:00000000
+"HideClock"=dword:00000001
+"HideIcons"=dword:00000001
+"HideVolumeButton"=dword:00000001

@@ -1,0 +1,4 @@
+@echo off
+
+reg export "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\ApplicationManagement\AllowGameDVR" "C:\quickid\backup\oyunperformas.reg"
+

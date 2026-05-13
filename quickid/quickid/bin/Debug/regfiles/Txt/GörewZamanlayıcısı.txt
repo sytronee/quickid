@@ -1,0 +1,56 @@
+@echo off
+
+echo Bağlı Kullanıcı Deneyimleri ve Telemetri Hizmeti devre dışı bırakılıyor...
+sc stop DiagTrack
+sc config DiagTrack start= disabled
+
+echo Bağlı Kullanıcı Deneyimleri ve Telemetri Hizmeti (dmwappushsvc) devre dışı bırakılıyor...
+sc stop dmwappushsvc
+sc config dmwappushsvc start= disabled
+
+echo İkincil Oturum Açma Hizmeti devre dışı bırakılıyor...
+sc stop seclogon
+sc config seclogon start= disabled
+
+echo İndirilen Haritalar Yöneticisi devre dışı bırakılıyor...
+sc stop MapsBroker
+sc config MapsBroker start= disabled
+
+echo IP Yardımcısı devre dışı bırakılıyor...
+sc stop iphlpsvc
+sc config iphlpsvc start= disabled
+
+echo İşlev Bulma Kaynak Yayımı devre dışı bırakılıyor...
+sc stop fdPHost
+sc config fdPHost start= disabled
+
+echo Program Uyumluluk Yardımcısı Hizmeti devre dışı bırakılıyor...
+sc stop CompatibilityAppraiser
+sc config CompatibilityAppraiser start= disabled
+
+echo TCP/IP NetBIOS Yardımcısı devre dışı bırakılıyor...
+sc stop lmhosts
+sc config lmhosts start= disabled
+
+echo Tanı İlkesi Hizmeti devre dışı bırakılıyor...
+sc stop DPS
+sc config DPS start= disabled
+
+echo Uzaktan Kayıt Defteri devre dışı bırakılıyor...
+sc stop RemoteRegistry
+sc config RemoteRegistry start= disabled
+
+echo Windows Hata Raporlama Hizmeti devre dışı bırakılıyor...
+sc stop WerSvc
+sc config WerSvc start= disabled
+
+echo Windows Resim Alma (WIA) devre dışı bırakılıyor...
+sc stop stisvc
+sc config stisvc start= disabled
+
+echo Yazdırma Biriktiricisi hizmeti devre dışı bırakılıyor...
+sc stop Spooler
+sc config Spooler start= disabled
+
+echo Hizmetler devre dışı bırakıldı.
+pause

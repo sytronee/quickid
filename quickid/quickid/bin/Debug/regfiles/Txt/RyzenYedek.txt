@@ -1,0 +1,9 @@
+@echo off
+
+reg export "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" "C:\quickid\backup\ryzenperfomans\1.reg"
+
+reg export "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem" "C:\quickid\backup\ryzenperfomans\2.reg"
+
+reg export "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile" "C:\quickid\backup\ryzenperfomans\3.reg"
+
+exit

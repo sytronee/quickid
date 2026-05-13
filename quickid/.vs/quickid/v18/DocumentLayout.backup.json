@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Furkan\\Desktop\\fastoptimizer-main\\fastoptimizer-main\\quickid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB3477E8-17D9-43E0-A590-E06CF726B437}|quickid\\quickid.csproj|c:\\users\\furkan\\desktop\\fastoptimizer-main\\fastoptimizer-main\\quickid\\quickid\\metots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB3477E8-17D9-43E0-A590-E06CF726B437}|quickid\\quickid.csproj|solutionrelative:quickid\\metots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB3477E8-17D9-43E0-A590-E06CF726B437}|quickid\\quickid.csproj|C:\\Users\\Furkan\\Desktop\\fastoptimizer-main\\fastoptimizer-main\\quickid\\quickid\\usercontrols\\uc_temizle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB3477E8-17D9-43E0-A590-E06CF726B437}|quickid\\quickid.csproj|solutionrelative:quickid\\usercontrols\\uc_temizle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB3477E8-17D9-43E0-A590-E06CF726B437}|quickid\\quickid.csproj|C:\\Users\\Furkan\\Desktop\\fastoptimizer-main\\fastoptimizer-main\\quickid\\quickid\\usercontrols\\uc_temizle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB3477E8-17D9-43E0-A590-E06CF726B437}|quickid\\quickid.csproj|solutionrelative:quickid\\usercontrols\\uc_temizle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_temizle.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\fastoptimizer-main\\fastoptimizer-main\\quickid\\quickid\\UserControls\\UC_temizle.cs",
+              "RelativeDocumentMoniker": "quickid\\UserControls\\UC_temizle.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\fastoptimizer-main\\fastoptimizer-main\\quickid\\quickid\\UserControls\\UC_temizle.cs",
+              "RelativeToolTip": "quickid\\UserControls\\UC_temizle.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAYwKkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2026-05-13T12:25:17.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Metots.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\fastoptimizer-main\\fastoptimizer-main\\quickid\\quickid\\Metots.cs",
+              "RelativeDocumentMoniker": "quickid\\Metots.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\fastoptimizer-main\\fastoptimizer-main\\quickid\\quickid\\Metots.cs",
+              "RelativeToolTip": "quickid\\Metots.cs",
+              "ViewState": "AgIAAAECAAAAAAAAAAAAAAkCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T12:25:17.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_temizle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\fastoptimizer-main\\fastoptimizer-main\\quickid\\quickid\\UserControls\\UC_temizle.cs",
+              "RelativeDocumentMoniker": "quickid\\UserControls\\UC_temizle.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\fastoptimizer\\quickid\\quickid\\UserControls\\UC_temizle.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Documents\\GitHub\\fastoptimizer\\quickid\\quickid\\UserControls\\UC_temizle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2026-05-13T12:25:17.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
